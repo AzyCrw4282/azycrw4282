@@ -7,7 +7,7 @@
 
 If I am not here, I am on StackOverflow, and not there I am probably busy...
 
-<a href="https://stackoverflow.com/users/6505847/azycrw4282" <img src="./stackO.png" alt="" width="164" height="164" class="bar-sm avatar-user"></a>
+<a href="https://stackoverflow.com/users/6505847/azycrw4282" <img src="StackO.png" alt="" width="200" height="350" class="bar-sm avatar-user"></a>
 
 
 <!--
