@@ -5,9 +5,9 @@
 - 👯 I’m looking for collaboration on enhancing some of my existing projects
 - ⚡ Fun fact: My name is pronouced just like [ASCII](https://en.wikipedia.org/wiki/ASCII)
 
-If I am not here, I am on StackOverflow, and not there I am probably busy...
+If I am not here, I am on StackOverflow, and not there I am probably busy... ![https://stackoverflow.com/users/6505847/azycrw4282](./StackO2.png)
 
-![https://stackoverflow.com/users/6505847/azycrw4282](./StackO2.png)
+
 
 
 <!--
