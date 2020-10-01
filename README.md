@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+
+
+Fun fact: My actual name is pronounced just like ASCII, and NO, I wasn't named after it.
+
+<img href="https://stackoverflow.com/users/6505847/azycrw4282" src="https://i.stack.imgur.com/jJ4og.jpg?s=328&amp;g=1" alt="" width="164" height="164" class="bar-sm avatar-user">
+
 <!--
 **AzyCrw4282/azycrw4282** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +20,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
