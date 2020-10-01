@@ -7,7 +7,7 @@
 
 If I am not here, I am on StackOverflow, and not there I am probably busy...
 
-<a href="https://stackoverflow.com/users/6505847/azycrw4282" <img src="StackO.png" alt="" width="120" height="200" style="float:left" class="bar-sm avatar-user"></a>
+![https://stackoverflow.com/users/6505847/azycrw4282](./StackO.png)
 
 
 <!--
@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<a href="https://stackoverflow.com/users/6505847/azycrw4282" <img src="StackO.png" alt="" width="120" height="200" style="float:left" class="bar-sm avatar-user"></a>
 -->
 
 
