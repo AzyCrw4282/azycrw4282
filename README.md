@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning(advancing on) Go, Python, Docker, VueJS
 - 👯 I’m looking for collaboration on enhancing some of my existing projects
 - ⚡ Fun fact: My name is pronouced just like [ASCII](https://en.wikipedia.org/wiki/ASCII)
+- 📧 --> `print("".join(chr(i) for i in [97, 122, 107, 121, 109, 117, 98, 97, 114, 97, 99, 107, 49, 50, 51, 64, 103, 109, 97, 105, 108, 46, 99, 111, 109]))`
 
 If I am not here, I am on StackOverflow, and not there I am probably busy...
 
