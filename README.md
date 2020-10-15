@@ -6,7 +6,7 @@
 - ⚡ Fun fact: My name is pronouced just like [ASCII](https://en.wikipedia.org/wiki/ASCII)
 - 📧 `print("".join(chr(i) for i in [97, 122, 107, 121, 109, 117, 98, 97, 114, 97, 99, 107, 49, 50, 51, 64, 103, 109, 97, 105, 108, 46, 99, 111, 109]))`
 
-If I am not here, I am on StackOverflow, and not there, I am probably Coding...
+If I am not here, I am on StackOverflow, and not there, I am probably Coding/Busy...
 
 <a href="https://stackoverflow.com/users/6505847/azycrw4282"><img src="https://stackoverflow.com/users/flair/6505847.png?theme=clean" width="208" height="58" alt="profile for shad0w_wa1k3r at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for shad0w_wa1k3r at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
