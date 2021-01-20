@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on building an API-Gateway, and setting up a pipeline to contribute to [go-sql-driver/mysql](https://github.com/go-sql-driver/mysql)
 - 🌱 I’m currently learning(advancing on) Go, Python, Docker, VueJS
 - 👯 I’m looking for collaboration on enhancing some of my existing projects
-- ⚡ Fun fact: My name is pronouced just like [ASCII](https://en.wikipedia.org/wiki/ASCII)
+- ⚡ Fun fact: My name is pronounced just like [ASCII](https://en.wikipedia.org/wiki/ASCII)
 
 If I am not here, I am on StackOverflow, and not there, I am probably Busy/Coding...
 
