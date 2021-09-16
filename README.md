@@ -1,13 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on building an API-Gateway, and setting up a pipeline to contribute to [go-sql-driver/mysql](https://github.com/go-sql-driver/mysql)
-- 🌱 I’m currently playing with Go, React
-- 👯 I’m looking for collaboration on enhancing some of my existing projects
-- ⚡ Fun fact: My name is pronounced just like [ASCII](https://en.wikipedia.org/wiki/ASCII)
-
-
-
-
+<a href="https://stackoverflow.com/users/6505847/azycrw4282" <img src="StackO.png" alt="" width="120" height="200" style="float:left" class="bar-sm avatar-user"></a>
 
 
 <!--
