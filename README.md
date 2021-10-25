@@ -2,6 +2,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AzyCrw4282&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+![Azky's GitHub stats](https://github-readme-stats.vercel.app/api?username=AzyCrw4282&show_icons=true&theme=radical)
 
 
 <a href="https://stackoverflow.com/users/6505847/azycrw4282"><img src="https://stackoverflow.com/users/flair/6505847.png?theme=clean" width="230" height="75" alt="profile for shad0w_wa1k3r at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for AzyCrw4282 at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
